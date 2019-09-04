@@ -1,4 +1,7 @@
 package prova.age.thiago.Struts.controller;
+/**
+ * @author trogerio
+ */
 
 import java.io.IOException;
 

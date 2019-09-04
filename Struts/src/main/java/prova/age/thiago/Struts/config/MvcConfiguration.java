@@ -1,4 +1,7 @@
 package prova.age.thiago.Struts.config;
+/**
+ * @author trogerio
+ */
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
